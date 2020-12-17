@@ -1,0 +1,1232 @@
+,artist,genre
+0,Marshmello,"['brostep', 'edm', 'pop', 'pop dance', 'progressive electro house']"
+1,Papa Roach,"['alternative metal', 'modern rock', 'nu metal', 'rap metal', 'rap rock']"
+2,Alan Walker,['electro house']
+3,benny blanco,"['electropop', 'pop', 'pop rap']"
+4,Bebe Rexha,"['dance pop', 'electropop', 'pop', 'pop dance', 'post-teen pop']"
+5,Whethan,"['edm', 'electropop', 'indie poptimism', 'pop', 'pop dance', 'tropical house', 'vapor soul', 'vapor twitch']"
+6,Vigiland,"['dance pop', 'edm', 'electronic trap', 'pop dance', 'pop rap', 'tropical house']"
+7,Witt Lowry,['pop rap']
+8,Steve Aoki,"['big room', 'dance pop', 'edm', 'electro house', 'pop dance', 'pop rap', 'tropical house']"
+9,Borgeous,"['big room', 'deep big room', 'edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'tropical house']"
+10,Cheat Codes,"['dance pop', 'edm', 'electro house', 'electropop', 'pop', 'pop dance', 'pop edm', 'pop rap', 'post-teen pop', 'tropical house']"
+11,The Chainsmokers,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'tropical house']"
+12,MKTO,"['dance pop', 'electropop', 'pop', 'pop rap', 'pop rock', 'post-teen pop']"
+13,Logic,"['conscious hip hop', 'dmv rap', 'hip hop', 'pop rap', 'rap']"
+14,Bryce Vine,"['pop', 'pop rap']"
+15,Lost Kings,"['dance pop', 'edm', 'electro house', 'indie poptimism', 'pop', 'pop dance', 'pop edm', 'pop rap', 'tropical house']"
+16,Axwell /\ Ingrosso,"['big room', 'dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'tropical house']"
+17,Mike Perry,"['big room', 'dance pop', 'deep tropical house', 'edm', 'electro house', 'pop', 'pop dance', 'pop edm', 'swedish tropical house', 'tropical house']"
+18,Gryffin,"['dance pop', 'edm', 'pop', 'pop dance', 'pop edm', 'tropical house']"
+19,Daya,"['dance pop', 'edm', 'electropop', 'indie poptimism', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'viral pop']"
+20,Martin Garrix,"['big room', 'dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'progressive house', 'tropical house']"
+21,Seeb,"['dance pop', 'edm', 'electro house', 'norwegian pop', 'pop', 'pop dance', 'pop edm', 'swedish pop', 'tropical house']"
+22,Dimitri Vegas & Like Mike,"['belgian dance', 'belgian edm', 'big room', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'tropical house']"
+23,YUNGBLUD,"['british indie rock', 'modern rock', 'rock']"
+24,Stash Konig,[]
+25,Kayzo,"['brostep', 'dubstep', 'edm', 'electro house', 'electronic trap']"
+26,Slushii,"['brostep', 'edm', 'electro house', 'electronic trap', 'future bass']"
+27,Breathe Carolina,"['edm', 'electropowerpop', 'neon pop punk', 'pop punk', 'screamo', 'trancecore']"
+28,Crystal Lake,"['japanese metalcore', 'japanese punk rock', 'metalcore']"
+29,Whyel,[]
+30,Zilence,[]
+31,SLANDER,"['dubstep', 'edm', 'electro house', 'electronic trap', 'pop dance', 'pop edm']"
+32,Rootkit,"['chillstep', 'complextro', 'edm', 'electro house', 'future bass', 'gaming edm', 'melodic dubstep', 'pop edm']"
+33,Zedd,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop', 'german techno', 'pop', 'pop dance', 'post-teen pop', 'tropical house']"
+34,Melano,"['dance pop', 'electropop', 'pop']"
+35,Charlie Puth,"['dance pop', 'pop', 'post-teen pop', 'viral pop']"
+36,Galantis,"['big room', 'dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'tropical house']"
+37,Priority One,[]
+38,Avicii,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']"
+39,Ivan B,['indie pop rap']
+40,Doctor P,"['brostep', 'dubstep', 'edm', 'electro house', 'electronic trap', 'filthstep', 'gaming dubstep', 'moombahton']"
+41,Stonebank,"['brostep', 'edm', 'electro house', 'gaming edm']"
+42,R3HAB,"['big room', 'dance pop', 'dutch house', 'edm', 'electro house', 'pop', 'pop dance', 'progressive electro house', 'tropical house']"
+43,Set It Off,"['electropowerpop', 'modern rock', 'otacore', 'pixie', 'pop punk', 'rock']"
+44,STARSET,"['alternative metal', 'future rock']"
+45,Vicetone,"['big room', 'edm', 'electro house', 'gaming edm', 'pop dance', 'pop edm', 'progressive electro house', 'tropical house']"
+46,Halsey,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop', 'pop dance', 'post-teen pop']"
+47,Jon Bellion,['pop rap']
+48,5 Seconds of Summer,"['boy band', 'dance pop', 'pop', 'post-teen pop']"
+49,Cash Cash,"['big room', 'dance pop', 'edm', 'electro house', 'electropop', 'electropowerpop', 'indie poptimism', 'pop', 'pop dance', 'pop edm', 'tropical house']"
+50,Lauv,"['electropop', 'pop', 'post-teen pop']"
+51,Hoodie Allen,"['indie pop rap', 'pop rap']"
+52,NOTD,"['dance pop', 'edm', 'electro house', 'electropop', 'pop', 'pop dance', 'pop edm', 'post-teen pop', 'tropical house']"
+53,G-Eazy,"['hip hop', 'indie pop rap', 'oakland hip hop', 'pop rap', 'rap']"
+54,Flo Rida,"['dance pop', 'miami hip hop', 'pop', 'pop dance', 'pop rap']"
+55,PLVTINUM,"['pop', 'post-teen pop']"
+56,Selena Gomez,"['dance pop', 'pop', 'pop dance', 'post-teen pop']"
+57,The Vamps,"['boy band', 'dance pop', 'pop', 'post-teen pop']"
+58,DVBBS,"['big room', 'canadian electronic', 'dance pop', 'deep big room', 'edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'tropical house']"
+59,Why Don't We,"['boy band', 'pop', 'post-teen pop', 'teen pop']"
+60,Atreyu,"['alternative metal', 'melodic metalcore', 'metalcore', 'nu metal', 'pop punk', 'rap rock', 'screamo']"
+61,Skillet,"['alternative metal', 'christian alternative rock', 'christian music', 'christian rock']"
+62,Otherwise,"['alternative metal', 'christian rock', 'gymcore', 'nu metal', 'post-grunge', 'post-screamo']"
+63,Nothing More,['alternative metal']
+64,I Prevail,"['modern rock', 'nu-metalcore']"
+65,Red,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']"
+66,Our Last Night,"['metalcore', 'modern rock', 'post-screamo', 'rock', 'screamo']"
+67,Yelawolf,"['alabama rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop']"
+68,Eminem,"['detroit hip hop', 'hip hop', 'rap']"
+69,Paul Rosenberg,[]
+70,Yellow Claw,"['bass trap', 'edm', 'electro house', 'electronic trap', 'pop dance']"
+71,Unknown Artist,[]
+72,Xuitcasecity,"['electropop', 'indie pop rap', 'pop dance', 'pop edm']"
+73,Bassjackers,"['big room', 'dance pop', 'deep big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']"
+74,AJR,['modern rock']
+75,Ellie Goulding,"['dance pop', 'edm', 'indietronica', 'metropopolis', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk pop']"
+76,David Guetta,"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house']"
+77,KREAM,"['big room', 'dance pop', 'deep tropical house', 'edm', 'electro house', 'house', 'pop dance', 'pop edm', 'tropical house']"
+78,Adventure Club,"['brostep', 'canadian electronic', 'chillstep', 'edm', 'electro house', 'electronic trap', 'electropop', 'filthstep', 'future bass', 'melodic dubstep', 'pop dance', 'pop edm']"
+79,Tiësto,"['big room', 'brostep', 'dance pop', 'dutch edm', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'trance', 'tropical house']"
+80,GASHI,"['pop dance', 'pop rap', 'trap soul']"
+81,Panic! At The Disco,"['baroque pop', 'emo', 'modern rock']"
+82,AREA21,"['big room', 'edm', 'pop dance']"
+83,Jonas Blue,"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house', 'uk dance']"
+84,Kygo,"['edm', 'pop', 'pop dance', 'tropical house']"
+85,ZAYN,"['dance pop', 'electropop', 'pop', 'pop dance', 'post-teen pop', 'uk pop']"
+86,Loud Luxury,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'pop edm', 'tropical house']"
+87,blackbear,"['electropop', 'pop', 'pop rap']"
+88,Sammy Adams,"['indie pop rap', 'pop rap']"
+89,The Score,"['modern alternative rock', 'modern rock']"
+90,Matoma,"['dance pop', 'edm', 'electro house', 'electropop', 'norwegian pop', 'pop', 'pop dance', 'pop edm', 'tropical house']"
+91,Raaban,[]
+92,Maggie Lindemann,"['dance pop', 'indie cafe pop', 'pop', 'post-teen pop', 'social media pop']"
+93,Two Friends,"['edm', 'electropop', 'pop dance', 'pop edm', 'tropical house']"
+95,Lucas & Steve,"['big room', 'dance pop', 'edm', 'electro house', 'pop dance', 'pop edm', 'tropical house']"
+96,Sigala,"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house']"
+97,Hardwell,"['big room', 'dance pop', 'deep big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house', 'tropical house']"
+98,Timeflies,"['dance pop', 'indie pop rap', 'indie poptimism', 'pop', 'pop dance', 'pop rap', 'pop rock', 'post-teen pop', 'tropical house']"
+99,Christian French,"['electropop', 'pop']"
+100,CVBZ,"['electropop', 'pop dance', 'pop edm']"
+101,3OH!3,"['dance pop', 'electropowerpop', 'pop', 'pop punk', 'pop rap', 'post-teen pop']"
+102,Felix Jaehn,"['dance pop', 'edm', 'electro house', 'german dance', 'pop', 'pop dance', 'tropical house']"
+103,KSHMR,"['big room', 'deep big room', 'edm', 'electro house', 'indian edm', 'pop dance', 'pop edm', 'tropical house']"
+104,Quinn XCII,"['electropop', 'indie pop rap', 'pop', 'pop rap']"
+105,Hailee Steinfeld,"['dance pop', 'pop', 'pop dance', 'post-teen pop']"
+106,Martin Jensen,"['dance pop', 'danish electronic', 'edm', 'electro house', 'pop', 'pop dance', 'pop edm', 'tropical house']"
+107,Genetikk,"['christlicher rap', 'deep german hip hop', 'german hip hop']"
+108,Machine Gun Kelly,"['ohio hip hop', 'pop rap']"
+109,James Mercy,['pop edm']
+110,Ansel Elgort,"['dance pop', 'pop', 'post-teen pop']"
+111,Jaymes Young,"['indie cafe pop', 'indie poptimism', 'modern rock', 'pop']"
+112,Arizona Zervas,"['pop rap', 'rhode island rap']"
+113,"nothing,nowhere.","['emo rap', 'pop rap', 'sad rap']"
+114,EDEN,"['electropop', 'indie poptimism', 'modern rock', 'pop']"
+115,Jack & Jack,"['dance pop', 'pop', 'post-teen pop', 'social media pop', 'teen pop']"
+116,Ruel,"['australian alternative pop', 'electropop', 'pop', 'post-teen pop']"
+117,gianni & kyle,"['pop', 'pop rap']"
+118,gnash,"['electropop', 'indie cafe pop', 'pop']"
+119,Bea Miller,"['dance pop', 'electropop', 'pop', 'pop rap', 'post-teen pop', 'talent show']"
+120,MAX,"['dance pop', 'electropop', 'pop', 'post-teen pop', 'viral pop']"
+121,mike.,"['indie pop rap', 'pop rap', 'rap', 'rhode island rap']"
+122,Jeremy Zucker,"['electropop', 'pop']"
+123,KYLE,"['pop rap', 'rap']"
+124,Sik World,"['emo rap', 'pop rap', 'rap', 'sad rap']"
+125,Lund,"['emo rap', 'sad rap']"
+126,Trevor Daniel,"['alternative r&b', 'melodic rap', 'pop rap']"
+127,Chelsea Cutler,"['electropop', 'indie pop', 'indie poptimism', 'pop', 'tropical house']"
+128,Jez Dior,"['deep underground hip hop', 'indie pop rap', 'pop rap']"
+129,mansionz,['pop rap']
+130,Olivia O'Brien,"['dance pop', 'electropop', 'indie poptimism', 'pop', 'post-teen pop']"
+131,6LACK,"['alternative r&b', 'atl hip hop', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'trap']"
+132,Chase Atlantic,"['electropop', 'indie poptimism', 'modern rock', 'pop', 'rock']"
+133,Eden Project,[]
+134,Skizzy Mars,"['indie pop rap', 'pop rap', 'rap', 'underground hip hop']"
+135,Goody Grace,['pop rap']
+136,ODESZA,"['chillwave', 'ninja']"
+137,Steve Angello,"['big room', 'disco house', 'edm', 'electro house', 'house', 'pop dance', 'progressive electro house', 'progressive house', 'tech house']"
+138,NF,"['hip hop', 'pop rap', 'rap']"
+139,Ed Sheeran,"['pop', 'uk pop']"
+140,DNCE,"['dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']"
+141,Ran-D,"['classic hardstyle', 'rawstyle', 'tekk']"
+142,Kaskade,"['big room', 'chicago house', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'tropical house', 'vocal house']"
+143,Polo G,['chicago rap']
+144,iann dior,"['melodic rap', 'pop rap']"
+145,PnB Rock,"['melodic rap', 'pop rap', 'rap', 'trap']"
+146,Lil Tecca,"['melodic rap', 'rap', 'trap']"
+147,NAV,"['canadian hip hop', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'toronto rap', 'trap']"
+148,YoungBoy Never Broke Again,"['baton rouge rap', 'trap']"
+149,Speaker Knockerz,"['melodic rap', 'south carolina hip hop', 'southern hip hop', 'trap']"
+150,Lil Durk,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+151,Roddy Ricch,"['melodic rap', 'rap', 'trap']"
+152,BlocBoy JB,"['pop rap', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap', 'vapor trap']"
+153,NLE Choppa,['memphis hip hop']
+154,YBN Nahmir,"['alabama rap', 'rap', 'trap', 'underground hip hop', 'vapor trap', 'viral rap']"
+155,YNW Melly,"['melodic rap', 'trap']"
+156,ayokay,"['electropop', 'indie electropop', 'indie poptimism', 'pop', 'pop dance', 'pop edm', 'tropical house']"
+157,Christian Leave,"['indie cafe pop', 'indie pop', 'pop']"
+158,Luke Christopher,"['indie pop rap', 'pop rap']"
+159,grandson,"['modern alternative rock', 'modern rock', 'rock']"
+160,Alon Mor,"['experimental electronic', 'future bass']"
+161,Grabbitz,"['brostep', 'chillstep', 'edm', 'electro house', 'future bass', 'gaming edm']"
+162,Mike Posner,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']"
+163,XXXTENTACION,"['emo rap', 'miami hip hop']"
+164,NEFFEX,[]
+165,Rameses B,"['chillstep', 'complextro', 'edm', 'electro house', 'gaming edm', 'melodic dubstep']"
+166,Gaullin,"['lithuanian electronic', 'pop dance']"
+167,DragonForce,"['british power metal', 'metal', 'power metal', 'speed metal']"
+168,JayKode,"['bass trap', 'traprun']"
+169,Tristam,"['brostep', 'chillstep', 'edm', 'electro house', 'gaming edm']"
+170,Swedish House Mafia,"['big room', 'dance pop', 'edm', 'electro house', 'pop dance', 'progressive electro house']"
+171,Skrillex,"['brostep', 'complextro', 'edm', 'electro', 'electro house']"
+172,Apashe,['bass trap']
+173,Fort Minor,['rap rock']
+174,Dirty Rush & Gregor Es,['progressive house']
+175,Zara Larsson,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance', 'post-teen pop', 'scandipop', 'swedish electropop', 'swedish pop', 'tropical house']"
+176,LNY TNZ,"['edm', 'electro house', 'rawstyle']"
+177,Krewella,"['big room', 'dance pop', 'edm', 'electra', 'electro house', 'electropop', 'pop dance']"
+178,Noisestorm,"['chillstep', 'complextro', 'edm', 'electro house', 'gaming edm']"
+179,Stefflon Don,"['dancehall', 'uk dancehall', 'uk hip hop']"
+180,Marc E. Bassy,"['indie poptimism', 'pop', 'pop rap', 'post-teen pop', 'rap']"
+181,Charlotte Lawrence,"['dance pop', 'electropop', 'indie cafe pop', 'indie poptimism', 'pop', 'post-teen pop', 'social media pop']"
+182,Iggy Azalea,"['australian hip hop', 'dance pop', 'hip pop', 'pop', 'pop dance', 'pop rap', 'post-teen pop']"
+183,Lizzo,"['dance pop', 'escape room', 'minnesota hip hop', 'pop', 'pop dance', 'pop rap', 'trap queen']"
+184,Cardi B,"['dance pop', 'pop', 'pop rap', 'rap']"
+185,Y2K,['pop rap']
+186,Yung Gravy,"['meme rap', 'minnesota hip hop', 'pop rap', 'vapor trap']"
+187,bbno$,"['canadian hip hop', 'dark trap', 'meme rap', 'pop rap', 'vapor trap']"
+188,420 Unlovable,['meme rap']
+189,Alison Wonderland,"['aussietronica', 'edm', 'electra', 'electro house', 'electronic trap', 'electropop', 'escape room', 'indietronica']"
+190,Diplo,"['bmore', 'edm', 'moombahton', 'ninja', 'pop', 'pop dance', 'tropical house']"
+191,DJ Snake,"['dance pop', 'edm', 'electro house', 'electronic trap', 'pop', 'pop dance']"
+192,ILLENIUM,"['edm', 'electropop', 'melodic dubstep', 'pop', 'pop dance', 'tropical house']"
+193,Prismo,"['bass trap', 'gaming edm', 'traprun']"
+194,THEY.,"['alternative r&b', 'indie r&b', 'pop r&b', 'pop rap', 'trap soul', 'underground hip hop']"
+195,Stephen,"['cambridge choir', 'choral', 'classical organ', 'orchestral performance']"
+196,Adam Jensen,"['indie poptimism', 'modern alternative rock', 'modern rock', 'rebel blues']"
+197,YONAS,"['deep underground hip hop', 'indie pop rap', 'pop rap']"
+198,Ryan Oakes,"['deep underground hip hop', 'emo rap', 'indie pop rap', 'pop rap', 'sad rap']"
+199,Unknown Brain,"['bass trap', 'gaming edm', 'traprun']"
+200,Ryan Caraveo,"['deep underground hip hop', 'indie pop rap', 'pop rap']"
+201,Bassnectar,"['breakbeat', 'brostep', 'edm', 'electro house', 'electronic trap', 'glitch hop']"
+202,Flosstradamus,"['bass trap', 'edm', 'electro house', 'electronic trap', 'mashup']"
+203,Tritonal,"['big room', 'edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'progressive trance', 'trance', 'tropical house', 'uplifting trance']"
+204,Call Me Karizma,"['emo rap', 'minnesota hip hop', 'modern alternative rock', 'modern rock', 'pop rap', 'social media pop']"
+205,Bring Me The Horizon,"['melodic metalcore', 'metalcore', 'rock', 'uk metalcore']"
+206,Shinedown,"['alternative metal', 'nu metal', 'post-grunge']"
+207,Linkin Park,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']"
+208,Hollywood Undead,"['alternative metal', 'modern rock', 'nu metal', 'rap metal', 'rap rock']"
+209,Avenged Sevenfold,"['alternative metal', 'nu metal']"
+210,Halestorm,"['alternative metal', 'nu metal', 'post-grunge']"
+211,Pillar,"['christian alternative rock', 'christian music', 'christian rock']"
+212,Three Days Grace,"['alternative metal', 'canadian metal', 'canadian rock', 'nu metal', 'post-grunge']"
+213,Rev Theory,"['alternative metal', 'gymcore', 'nu metal', 'post-grunge', 'rap rock', 'rebel blues', 'wrestling']"
+214,Nickelback,"['alternative metal', 'canadian rock', 'nu metal', 'post-grunge']"
+215,Thousand Foot Krutch,"['alternative metal', 'canadian ccm', 'canadian metal', 'canadian rock', 'christian alternative rock', 'christian rock', 'nu metal', 'rap metal', 'rap rock']"
+216,Celldweller,"['alternative metal', 'future rock', 'industrial metal', 'industrial rock', 'nu metal', 'rap rock']"
+217,Beartooth,"['modern rock', 'post-screamo']"
+218,Rise Against,"['chicago hardcore', 'chicago punk', 'hardcore punk', 'punk']"
+219,Hot Action Cop,"['funk metal', 'rap rock']"
+220,Juice WRLD,"['chicago rap', 'melodic rap']"
+221,Future,"['atl hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+222,Skan,"['bass trap', 'traprun']"
+223,NGHTMRE,"['bass trap', 'brostep', 'edm', 'electro house', 'electronic trap', 'pop dance']"
+224,Trilane,[]
+225,Jauz,"['bass house', 'brostep', 'edm', 'electro house', 'electronic trap', 'house', 'pop dance']"
+226,Virtual Riot,"['brostep', 'complextro', 'dubstep', 'edm', 'electro house', 'electronic trap', 'filthstep', 'future bass', 'gaming dubstep']"
+227,Matthew Wilder,['new wave pop']
+228,BFK,['uk alternative hip hop']
+229,Andrew Gold,"['soft rock', 'underground power pop']"
+230,Dma Illan Trap,
+231,League of Legends,['video game music']
+232,Cherry Beach,[]
+233,MYRNE,"['edm', 'electro house', 'future bass', 'gaming edm', 'pop edm', 'singaporean electronic', 'singaporean pop', 'vapor twitch']"
+234,JRL,['pop edm']
+235,RapGem,[]
+236,Jax Jones,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'pop rap', 'post-teen pop', 'tropical house', 'uk dance']"
+237,Freddie Dredd,"['dark trap', 'meme rap', 'phonk', 'underground hip hop', 'viral rap']"
+238,Weathers,"['modern alternative rock', 'modern rock']"
+239,The Cab,"['modern rock', 'neon pop punk', 'pop punk', 'pop rock', 'post-teen pop', 'vegas indie', 'viral pop']"
+240,Black Veil Brides,"['alternative metal', 'modern rock', 'screamo']"
+241,Twenty One Pilots,"['modern rock', 'rock']"
+242,All Time Low,"['modern rock', 'pop punk', 'post-teen pop', 'rock']"
+243,Fall Out Boy,"['emo', 'modern rock', 'pop punk']"
+244,Anarbor,"['modern rock', 'neon pop punk', 'pop emo', 'pop punk']"
+245,MISSIO,"['electropop', 'indie poptimism', 'modern alternative rock', 'modern rock', 'rock']"
+246,Alec Benjamin,"['electropop', 'pop']"
+247,Madison Beer,"['dance pop', 'electropop', 'pop', 'pop dance', 'post-teen pop']"
+248,Louis Tomlinson,"['pop', 'post-teen pop']"
+249,Ne-Yo,"['dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']"
+250,Big Sean,"['detroit hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+251,Lecrae,"['ccm', 'christian alternative rock', 'christian hip hop', 'christian music', 'worship']"
+252,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']"
+253,KIDS SEE GHOSTS,"['hip hop', 'rap', 'underground hip hop']"
+254,Rae Sremmurd,"['hip hop', 'melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+255,Dyler,['arabic hip hop']
+256,Kap G,"['atl hip hop', 'chicano rap', 'melodic rap', 'trap', 'vapor trap']"
+257,Rich Homie Quan,"['atl hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+258,Bryson Tiller,"['kentucky hip hop', 'pop', 'pop rap', 'rap', 'trap']"
+259,Young Thug,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'pop rap', 'rap', 'trap']"
+260,Sam Smith,"['dance pop', 'pop', 'post-teen pop', 'uk pop']"
+261,Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']"
+262,Big Gigantic,"['edm', 'electronic trap', 'electropop', 'vapor twitch']"
+263,Joyner Lucas,"['boston hip hop', 'hip hop', 'pop rap', 'rap']"
+264,Futuristic,"['deep underground hip hop', 'indie pop rap', 'pop rap', 'rap', 'underground hip hop']"
+265,Michl,['vapor soul']
+266,FLETCHER,"['dance pop', 'electropop', 'indie cafe pop', 'indie poptimism', 'pop', 'pop dance', 'post-teen pop']"
+267,AJ Mitchell,"['electropop', 'indie cafe pop', 'pop', 'post-teen pop', 'social media pop']"
+268,Hippie Sabotage,"['edm', 'electronic trap']"
+269,88rising,"['asian american hip hop', 'pop']"
+270,Lil Dicky,"['comedy rap', 'pop rap', 'rap']"
+271,Sueco the Child,
+272,A Boogie Wit da Hoodie,"['melodic rap', 'pop rap', 'rap', 'trap']"
+273,Bazzi,"['dance pop', 'electropop', 'pop', 'post-teen pop']"
+274,Post Malone,"['dfw rap', 'melodic rap', 'rap']"
+275,Lil Uzi Vert,"['melodic rap', 'philly rap', 'rap', 'trap']"
+276,Travis Scott,['rap']
+277,Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+278,Desiigner,"['pop rap', 'rap', 'trap', 'viral trap']"
+279,Andy Mineo,"['christian hip hop', 'christian trap']"
+280,Rob $tone,['san diego rap']
+281,Lil Nas X,"['country rap', 'lgbtq+ hip hop', 'pop rap', 'queer country']"
+282,21 Savage,"['atl hip hop', 'rap', 'trap']"
+283,Ty Dolla $ign,"['hip hop', 'pop', 'pop rap', 'r&b', 'trap', 'trap soul']"
+284,Waka Flocka Flame,"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+285,Lil Yachty,"['atl hip hop', 'hip hop', 'melodic rap', 'rap', 'southern hip hop', 'trap']"
+286,Fetty Wap,"['new jersey rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+287,Kevin Gates,"['baton rouge rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+288,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']"
+289,Khalid,"['alternative r&b', 'pop']"
+290,Kid Ink,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+291,Famous Dex,"['chicago rap', 'drill', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop', 'vapor trap']"
+292,T-Pain,"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap', 'urban contemporary']"
+293,VIC MENSA,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop rap', 'rap', 'trap', 'underground hip hop']"
+294,Calvin Harris,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']"
+295,Wale,"['dance pop', 'gangster rap', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap', 'urban contemporary']"
+296,Kodak Black,"['florida rap', 'hip hop', 'melodic rap', 'miami hip hop', 'rap', 'southern hip hop', 'trap']"
+297,Childish Gambino,"['atl hip hop', 'hip hop', 'pop rap', 'rap']"
+298,Mac Miller,"['hip hop', 'pittsburgh rap', 'rap']"
+299,Joey Bada$$,"['conscious hip hop', 'hip hop', 'rap', 'underground hip hop']"
+300,DaBaby,"['north carolina hip hop', 'rap']"
+301,Amine,"['hip hop', 'pop rap', 'portland hip hop', 'rap', 'underground hip hop']"
+302,B.o.B,"['atl hip hop', 'dance pop', 'hip hop', 'pop', 'pop dance', 'pop rap', 'rap', 'southern hip hop']"
+303,Farid Bang,"['deep german hip hop', 'german hip hop']"
+304,DeJ Loaf,"['detroit hip hop', 'pop r&b', 'pop rap', 'rap', 'trap', 'trap queen']"
+305,Russ,"['hawaiian hip hop', 'pop rap', 'rap']"
+306,Chris Brown,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']"
+307,Meek Mill,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+308,Vince Staples,"['conscious hip hop', 'escape room', 'hip hop', 'rap', 'underground hip hop']"
+309,Omarion,"['dance pop', 'hip pop', 'pop r&b', 'r&b', 'rap', 'southern hip hop', 'trap', 'urban contemporary']"
+310,Eric Bellinger,"['dance pop', 'pop', 'pop r&b', 'pop rap', 'r&b', 'rap', 'trap', 'urban contemporary']"
+311,Playboi Carti,"['atl hip hop', 'hip hop', 'rap', 'trap', 'underground hip hop']"
+312,Roy Woods,"['canadian contemporary r&b', 'canadian hip hop', 'pop rap', 'trap', 'trap soul', 'underground hip hop']"
+313,Bobby Shmurda,"['nyc rap', 'trap']"
+314,A$AP Ferg,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']"
+315,Jeremih,"['chicago rap', 'dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']"
+316,Ugly God,"['meme rap', 'trap', 'underground hip hop', 'vapor trap']"
+317,Tyga,"['dance pop', 'hip hop', 'pop rap', 'rap', 'trap']"
+318,MadeinTYO,"['atl hip hop', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop', 'vapor trap']"
+319,ElGrandeToto,"['arabic hip hop', 'moroccan pop', 'rap maroc']"
+320,Megan Thee Stallion,"['houston rap', 'pop', 'pop rap', 'trap queen']"
+321,Young M.A,"['lgbtq+ hip hop', 'nyc rap', 'pop rap', 'rap', 'trap']"
+322,Phora,"['deep underground hip hop', 'oc rap', 'pop r&b']"
+323,Madd,"['contemporary country', 'country']"
+324,2 Chainz,"['atl hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+325,"Tyler, The Creator","['hip hop', 'rap']"
+326,Naar,[]
+327,Chance the Rapper,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop rap', 'rap']"
+328,L.A. Leakers,[]
+329,Dreezy,"['chicago rap', 'drill', 'hip pop', 'pop r&b', 'trap queen']"
+330,Tory Lanez,"['canadian hip hop', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'toronto rap', 'trap']"
+331,DJ Khaled,"['dance pop', 'hip hop', 'miami hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+332,Yo Gotti,"['dirty south rap', 'gangster rap', 'hip hop', 'memphis hip hop', 'pop rap', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']"
+333,Wiz Khalifa,"['hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+334,Quality Control,"['hip hop', 'melodic rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+335,Cordae,"['dmv rap', 'hip hop', 'pop rap', 'rap', 'trap', 'underground hip hop', 'vapor trap']"
+336,PARTYNEXTDOOR,"['pop', 'pop rap', 'rap', 'toronto rap', 'trap', 'urban contemporary']"
+337,TK Kravitz,"['pop r&b', 'trap']"
+338,7liwa,"['arabic hip hop', 'moroccan pop', 'rap maroc']"
+339,Rihanna,"['barbadian pop', 'dance pop', 'pop', 'pop dance', 'post-teen pop', 'r&b', 'urban contemporary']"
+340,WizKid,"['afro dancehall', 'afropop', 'azonto', 'nigerian hip hop', 'nigerian pop']"
+341,O.T. Genasis,"['gangster rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+342,Danny Brown,"['alternative hip hop', 'detroit hip hop', 'escape room', 'hip hop', 'rap', 'underground hip hop']"
+343,Rick Ross,"['dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+344,ILOVEMAKONNEN,"['atl hip hop', 'lgbtq+ hip hop', 'trap', 'underground hip hop']"
+345,GoldLink,"['alternative r&b', 'dmv rap', 'hip hop', 'indie soul', 'rap', 'underground hip hop']"
+346,Nicki Minaj,"['dance pop', 'hip pop', 'pop', 'pop dance', 'pop rap', 'post-teen pop', 'queens hip hop']"
+347,Gucci Mane,"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+348,Shelley FKA DRAM,"['pop rap', 'rap', 'trap', 'virginia hip hop']"
+349,Flatbush Zombies,"['escape room', 'hip hop', 'psychedelic hip hop', 'rap', 'underground hip hop']"
+350,Timbaland,"['dance pop', 'hip hop', 'hip pop', 'pop', 'pop dance', 'pop rap', 'urban contemporary']"
+351,Rich Gang,"['rap', 'southern hip hop', 'trap']"
+352,Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']"
+353,ScHoolboy Q,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']"
+354,Young Greatness,['new orleans rap']
+355,Bas,"['metropopolis', 'modern rock', 'pop', 'pop rock', 'tropical house']"
+356,Action Bronson,"['alternative hip hop', 'east coast hip hop', 'hip hop', 'nyc rap', 'queens hip hop', 'rap', 'southern hip hop', 'underground hip hop']"
+357,Earl Sweatshirt,"['alternative hip hop', 'escape room', 'experimental hip hop', 'hip hop', 'rap', 'underground hip hop']"
+358,YFN Lucci,"['arkansas hip hop', 'atl hip hop', 'melodic rap', 'pop r&b', 'rap', 'southern hip hop', 'trap']"
+359,KAYTRANADA,"['escape room', 'indie soul', 'lgbtq+ hip hop']"
+360,guccihighwaters,"['emo rap', 'sad rap']"
+361,San Holo,"['edm', 'electro house', 'electronic trap', 'electropop', 'future bass', 'pop dance', 'pop edm', 'vapor twitch']"
+362,Justin Stone,"['deep underground hip hop', 'indie pop rap', 'pop rap']"
+363,Flame,"['christian hip hop', 'christian trap']"
+364,Bazanji,"['bass trap', 'deep underground hip hop', 'pop rap']"
+365,Nate Feuerstein,[]
+366,Fame on Fire,['post-screamo']
+367,Elephante,"['big room', 'edm', 'electro house', 'electropop', 'future bass', 'indie poptimism', 'pop dance', 'pop edm', 'tropical house']"
+368,Unlike Pluto,"['bass trap', 'indie poptimism', 'modern alternative rock', 'modern rock', 'rock']"
+369,Lil Skies,"['melodic rap', 'pop rap', 'rap', 'trap']"
+370,Abstract,"['indie pop rap', 'pop rap']"
+371,OneRepublic,"['dance pop', 'neo mellow', 'piano rock', 'pop', 'pop rock']"
+372,Nathan Feuerstein,[]
+373,Jdam,['deep underground hip hop']
+374,Lucidious,[]
+375,X Ambassadors,"['modern alternative rock', 'modern rock', 'pop', 'pop rock', 'rock', 'stomp pop']"
+376,Aero Chord,"['bass trap', 'edm', 'gaming edm', 'traprun']"
+377,DJ Samentro,[]
+378,Huncho Jack,"['hip hop', 'melodic rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+379,PRETTYMUCH,"['boy band', 'dance pop', 'pop', 'post-teen pop', 'social media pop']"
+380,bülow,"['dance pop', 'electropop', 'indie poptimism', 'indietronica', 'pop', 'social media pop']"
+381,Camila Cabello,"['dance pop', 'electropop', 'pop', 'pop dance', 'post-teen pop']"
+382,Loote,"['dance pop', 'electropop', 'indie poptimism', 'nyc pop', 'pop', 'pop dance', 'pop edm', 'post-teen pop', 'tropical house', 'uk pop']"
+383,Ruth B.,"['canadian contemporary r&b', 'canadian pop', 'indie cafe pop', 'pop', 'post-teen pop', 'viral pop']"
+384,Cody Simpson,"['australian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']"
+385,Kiiara,"['dance pop', 'electropop', 'indie poptimism', 'pop', 'pop dance', 'post-teen pop']"
+386,HRVY,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'social media pop']"
+387,Pia Mia,"['dance pop', 'pop', 'pop dance', 'pop r&b', 'post-teen pop', 'r&b', 'social media pop', 'urban contemporary']"
+388,Fly By Nightcore,['nightcore']
+389,Katie Sky,[]
+390,Karmin,"['dance pop', 'electropop', 'pop dance', 'post-teen pop', 'viral pop']"
+391,Hey Violet,"['dance pop', 'electropop', 'indie poptimism', 'modern rock', 'pixie', 'pop', 'post-teen pop', 'social media pop']"
+392,Melanie Martinez,"['dance pop', 'electropop', 'pop']"
+393,Clean Bandit,"['dance pop', 'edm', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk dance', 'uk funky']"
+394,Au/Ra,"['deep pop edm', 'electropop', 'indie poptimism', 'pop']"
+395,Natalia Kills,"['candy pop', 'dance pop', 'electropop', 'pop', 'pop dance', 'post-teen pop']"
+396,Ava Max,"['dance pop', 'pop']"
+397,Bahari,['la pop']
+398,Lia Marie Johnson,['teen pop']
+399,Stephanie Mabey,['otacore']
+400,Static-P,['otacore']
+401,Cady Groves,"['alternative pop rock', 'neon pop punk', 'pop emo']"
+402,Kat Dahlia,"['hip pop', 'miami hip hop']"
+403,Billie Eilish,"['electropop', 'pop']"
+404,Molly Kate Kestner,['lds youth']
+405,Duke Dumont,"['dance pop', 'destroy techno', 'disco house', 'edm', 'electro house', 'house', 'pop dance', 'progressive house', 'tropical house', 'uk dance']"
+406,Volbeat,"['alternative metal', 'danish metal', 'danish rock']"
+407,Kid Quill,"['indiana hip hop', 'indie pop rap', 'pop rap']"
+408,Tsuko G.,"['antiviral pop', 'eurobeat', 'meme rap', 'otacore']"
+409,Rob Cantor,[]
+410,Teriyaki Boyz,[]
+411,Richard Cheese,"['comic', 'comic metal']"
+412,Metallica,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']"
+413,Die Antwoord,"['african rock', 'south african alternative', 'south african hip hop']"
+414,GARRY B,[]
+415,KVSH,"['brazilian edm', 'trance brasileiro']"
+416,Bhaskar,"['brazilian bass', 'brazilian edm', 'brazilian house']"
+417,Bora,"['contemporary country', 'country', 'country road', 'modern country rock', 'redneck']"
+418,Those 2 Guys,[]
+419,RICCI,['brazilian edm']
+420,Biometrix,"['bass trap', 'traprun']"
+421,Riton,"['house', 'pop dance', 'uk dance']"
+422,Uplink,"['gaming edm', 'pop edm']"
+423,Riot Ten,"['dubstep', 'edm', 'electro house', 'electronic trap']"
+424,Cat Dealers,"['brazilian edm', 'pop dance']"
+425,Say Word,[]
+426,Tom & Jame,"['big room', 'deep big room', 'dutch edm', 'electro house', 'pop edm', 'sky room']"
+427,MEDUZA,"['edm', 'pop dance', 'pop house', 'tropical house']"
+428,Lo Key,[]
+429,2nd Life,"['bass trap', 'traprun']"
+430,Laidback Luke,"['big room', 'deep big room', 'dutch edm', 'dutch house', 'edm', 'electro house', 'house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house']"
+431,Levianth,"['bass trap', 'traprun']"
+432,Mayra,"['afropop', 'morna', 'world']"
+433,Project North,[]
+434,Lucky Luke,"['lithuanian electronic', 'pop dance']"
+435,LTGTR,['irish techno']
+436,JØRD,['contemporary country']
+437,Fatboy Slim,"['big beat', 'disco house']"
+438,Example,"['dance pop', 'grime', 'hip house', 'house', 'pop dance', 'tropical house', 'uk dance']"
+439,Takeoff,"['atl hip hop', 'rap', 'southern hip hop', 'trap', 'vapor trap']"
+440,Big Boi,"['atl hip hop', 'dirty south rap', 'hip hop', 'southern hip hop']"
+441,A$AP Rocky,"['east coast hip hop', 'hip hop', 'rap', 'trap', 'underground hip hop']"
+442,SOB X RBE,"['cali rap', 'trap', 'vapor trap']"
+443,DMX,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop']"
+444,Beastie Boys,"['alternative rock', 'east coast hip hop', 'hip hop', 'old school hip hop', 'rap', 'rock']"
+445,Quiet Riot,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'metal', 'rock']"
+446,GRAVEDGR,"['bass trap', 'electronic trap']"
+447,Omar LinX,"['canadian hip hop', 'indie pop rap']"
+448,Deuce,['rap rock']
+449,lil aaron,"['emo rap', 'glitchcore', 'pop rap']"
+450,Out There,[]
+451,Sujal Bhandari,[]
+452,Shiki-TMNS,['meme rap']
+453,BLENDER,[]
+454,Derek Minor,"['christian hip hop', 'christian trap']"
+455,Ollie,"['emo rap', 'sad rap']"
+456,Njomza,[]
+457,The March Ahead,"['post-post-hardcore', 'post-screamo']"
+458,WE ARE FURY,"['bass trap', 'future bass', 'melodic dubstep', 'pop edm', 'traprun']"
+459,Alex Goot,"['post-teen pop', 'viral pop']"
+460,LUNDØN,[]
+461,KB,"['christian hip hop', 'christian trap']"
+462,Myles Parrish,"['christian hip hop', 'teen pop']"
+463,lovelytheband,"['indie pop', 'indie poptimism', 'modern alternative rock', 'modern rock', 'pop rock', 'rock']"
+464,Fancy Cars,"['pop edm', 'progressive electro house']"
+465,Mike Shinoda,"['alternative hip hop', 'modern rock', 'rap rock']"
+466,Brandon Colbein,[]
+467,yesyes,[]
+468,Raven Link,[]
+469,Gallant,['alternative r&b']
+470,Drumma Battalion,[]
+471,Lundh,[]
+472,Argui,[]
+473,Jay Hardway,"['big room', 'deep big room', 'dutch edm', 'edm', 'electro house', 'house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'tropical house']"
+474,Vanda,"['hardcore punk', 'melodic hardcore', 'punk', 'ska', 'ska punk', 'skate punk']"
+475,Dillon Francis,"['big room', 'brostep', 'dance pop', 'edm', 'electro house', 'electronic trap', 'electropop', 'moombahton', 'pop', 'pop dance', 'tropical house']"
+476,Nicky Romero,"['big room', 'dance pop', 'deep big room', 'dutch edm', 'dutch house', 'edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'tropical house']"
+477,Au5,"['chillstep', 'complextro', 'dubstep', 'edm', 'electro house', 'future bass', 'gaming edm', 'melodic dubstep', 'pop edm']"
+478,Knife Party,"['australian dance', 'big room', 'brostep', 'complextro', 'edm', 'electro house', 'moombahton']"
+479,Chico Rose,"['deep big room', 'edm', 'electro house', 'pop dance', 'pop edm', 'tropical house']"
+480,Dua Lipa,"['dance pop', 'pop', 'pop dance', 'uk pop']"
+481,Take/Five,"['bass trap', 'electronic trap', 'traprun']"
+482,KAAZE,"['big room', 'deep big room', 'edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'sky room']"
+483,NateWantsToBattle,"['antiviral pop', 'otacore']"
+484,VGR,"['meme rap', 'otacore', 'vgm remix']"
+485,dj-Jo,"['anime latino', 'otacore']"
+486,CG5,['otacore']
+487,Miura Jam,['otacore']
+488,From Ashes to New,"['alternative metal', 'gymcore', 'post-screamo', 'rap rock']"
+489,Story Of The Year,"['alternative metal', 'nu metal', 'pop punk', 'post-hardcore', 'screamo']"
+490,BabyJake,"['pop', 'pop rap']"
+491,6ix9ine,['emo rap']
+492,Ski Mask The Slump God,"['miami hip hop', 'underground hip hop']"
+493,Flipp Dinero,"['melodic rap', 'pop rap', 'rap', 'southern hip hop', 'trap', 'vapor trap']"
+494,Lil Mosey,"['melodic rap', 'rap conscient', 'trap', 'vapor trap']"
+495,Lil Pump,"['emo rap', 'miami hip hop', 'rap', 'trap']"
+496,Blueface,"['cali rap', 'trap']"
+497,Sheck Wes,"['rap', 'trap', 'underground hip hop', 'vapor trap']"
+498,Nebu Kiniza,"['melodic rap', 'trap', 'underground hip hop', 'vapor trap']"
+499,Rich The Kid,"['atl hip hop', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'southern hip hop', 'trap', 'vapor trap']"
+500,Tee Grizzley,"['detroit hip hop', 'detroit trap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+501,Smokepurpp,"['melodic rap', 'meme rap', 'miami hip hop', 'rap', 'trap', 'underground hip hop', 'vapor trap']"
+502,Trippie Redd,"['melodic rap', 'rap', 'trap']"
+503,Metro Boomin,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+504,Comethazine,"['meme rap', 'rap', 'trap', 'underground hip hop', 'vapor trap', 'viral rap']"
+505,D1,"['detroit hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap', 'rap rock']"
+506,David Bjella,[]
+507,Vibrational Healing,[]
+508,Bohnes,"['modern rock', 'rebel blues']"
+509,RetroVision,"['big room', 'deep big room', 'edm', 'electro house', 'gaming edm', 'pop edm']"
+510,Stadiumx,"['big room', 'deep big room', 'edm', 'electro house', 'house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'sky room']"
+511,NIVIRO,['gaming edm']
+512,Zolita,"['electropop', 'indie poptimism', 'pop']"
+513,Mikebøi,['traprun']
+514,Manse,"['big room', 'deep big room', 'edm', 'electro house', 'pop edm', 'progressive electro house', 'progressive house', 'sky room']"
+515,ItaloBrothers,"['dance pop', 'edm', 'europop', 'hands up', 'italo dance', 'pop dance']"
+516,Redondo,"['deep groove house', 'deep house', 'deep tech house', 'deep tropical house', 'edm', 'electro house', 'house', 'pop dance', 'pop edm', 'progressive house', 'tropical house']"
+517,Rajitheone,['minnesota hip hop']
+518,Sloppy Toaster,[]
+519,Pogo,['plunderphonics']
+520,iLOVEFRiDAY,['viral pop']
+521,DJ Scheme,"['trap', 'underground hip hop', 'vapor trap']"
+522,Gotye,['australian pop']
+523,ricky retro,[]
+524,Deorro,"['big room', 'dance pop', 'edm', 'electro house', 'melbourne bounce', 'melbourne bounce international', 'pop dance', 'progressive electro house']"
+525,Disco Fries,"['deep big room', 'edm', 'electro house', 'pop dance', 'pop edm']"
+526,Porter Robinson,"['big room', 'brostep', 'complextro', 'edm', 'electro house', 'moombahton', 'progressive electro house']"
+527,Afrojack,"['big room', 'dance pop', 'deep big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house', 'tropical house']"
+528,Danny Avila,"['big room', 'edm', 'pop dance']"
+529,Gorgon City,"['deep groove house', 'disco house', 'edm', 'future garage', 'house', 'pop dance', 'progressive house', 'tropical house', 'uk dance']"
+530,Armin van Buuren,"['dutch trance', 'edm', 'pop dance', 'progressive house', 'trance']"
+531,Steff da Campo,"['big room', 'deep big room', 'edm', 'electro house', 'house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house']"
+532,Mike Mago,"['deep groove house', 'deep tropical house', 'disco house', 'edm', 'electro house', 'house', 'pop dance', 'pop edm', 'progressive house', 'tropical house']"
+533,Bastille,"['metropopolis', 'modern rock', 'pop', 'pop rock', 'tropical house']"
+534,Timmy Trumpet,"['australian dance', 'edm', 'melbourne bounce', 'melbourne bounce international', 'pop dance']"
+535,Arensky,[]
+536,Yves V,"['belgian edm', 'big room', 'brazilian edm', 'deep big room', 'edm', 'electro house', 'house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'tropical house']"
+537,K CAMP,"['atl hip hop', 'hip hop', 'melodic rap', 'pop r&b', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+538,Yaeji,"['art pop', 'electropop', 'escape room', 'experimental house']"
+539,Ali Gatie,"['canadian hip hop', 'pop']"
+540,11 Acorn Lane,"['electro swing', 'nu jazz']"
+541,Sebastian Ingrosso,"['big room', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']"
+542,Sage The Gemini,"['dance pop', 'hyphy', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+543,BANNERS,"['indie poptimism', 'modern rock', 'pop', 'pop rock']"
+544,Duckwrth,"['alternative r&b', 'hip hop', 'indie r&b', 'underground hip hop']"
+545,We The Kings,"['neon pop punk', 'piano rock', 'pop punk', 'pop rock', 'post-teen pop']"
+546,American Authors,"['indie poptimism', 'modern alternative rock', 'modern rock', 'pop rock']"
+547,Kid Travis,[]
+548,The Offspring,"['alternative metal', 'permanent wave', 'punk', 'rock', 'skate punk', 'socal pop punk']"
+549,Deon Custom,"['future bass', 'gaming edm']"
+550,K-391,"['gaming edm', 'nordic house']"
+551,Zomboy,"['brostep', 'dubstep', 'edm', 'electro house', 'electronic trap', 'filthstep', 'gaming dubstep', 'glitch']"
+552,NERO,"['drum and bass', 'edm', 'electro house', 'melodic dubstep']"
+553,Foreign Beggars,"['brostep', 'uk hip hop']"
+554,Feed Me,"['brostep', 'complextro', 'edm', 'electro house']"
+555,Hellberg,"['chillstep', 'complextro', 'edm', 'electro house', 'gaming edm', 'pop edm']"
+556,TheFatRat,[]
+557,Dax,"['canadian hip hop', 'ottawa rap', 'pop rap', 'social media pop']"
+558,Quavo,"['atl hip hop', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+559,T.I.,"['atl hip hop', 'dance pop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+560,Rexx Life Raj,"['cali rap', 'canadian hip hop', 'trap soul', 'underground hip hop']"
+561,Oliver Francis,"['dark trap', 'emo rap', 'melodic rap', 'sad rap', 'underground hip hop', 'vapor trap']"
+562,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+563,MellowHigh,['underground hip hop']
+564,Tay-K,"['cali rap', 'dfw rap', 'meme rap', 'rap', 'trap', 'underground hip hop', 'vapor trap', 'viral rap']"
+565,Manie Doe,[]
+566,WRLD,"['chicago rap', 'melodic rap']"
+567,Hinkik,['gaming edm']
+568,ColBreakz,[]
+569,Alok,"['electro house', 'pop nacional']"
+570,ARMNHMR,"['edm', 'electro house', 'future bass', 'melodic dubstep', 'pop edm']"
+571,PLS&TY,[]
+572,Öwnboss,['brazilian edm']
+573,Woof Logik,[]
+574,Weero,[]
+575,Promise Land,"['big room', 'deep big room', 'electro house', 'pop edm', 'progressive electro house', 'sky room']"
+576,Marc Antonix,[]
+577,Dankann,['progressive trance house']
+578,Luke & Tobe,[]
+579,LOthief,['brazilian edm']
+580,Mabryx,[]
+581,VIZE,"['german dance', 'pop dance', 'tropical house']"
+582,ieuan,['uk contemporary r&b']
+583,Kevin Abstract,"['afrofuturism', 'alternative r&b', 'hip hop', 'lgbtq+ hip hop', 'rap']"
+584,Lorde,"['art pop', 'dance pop', 'electropop', 'metropopolis', 'nz pop', 'pop', 'pop dance', 'post-teen pop']"
+585,Arctic Monkeys,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']"
+586,Dominic Fike,"['alternative pop rock', 'pop']"
+587,SOPHIE,['bedroom soul']
+588,Dopebwoy,"['dutch hip hop', 'dutch rap pop']"
+589,Grimes,"['art pop', 'canadian electropop', 'chillwave', 'dance pop', 'electropop', 'grave wave', 'hyperpop', 'indietronica', 'metropopolis', 'pop']"
+590,Superhumanoids,"['metropopolis', 'shimmer pop']"
+591,Cage The Elephant,"['indie rock', 'modern alternative rock', 'modern rock', 'punk blues', 'rock']"
+592,Nothing But Thieves,"['alternative pop rock', 'modern alternative rock', 'modern rock', 'rock']"
+593,Tame Impala,"['australian psych', 'neo-psychedelic']"
+594,Smino,"['alternative r&b', 'hip hop', 'rap', 'underground hip hop']"
+595,BROCKHAMPTON,"['boy band', 'hip hop', 'rap', 'underground hip hop']"
+596,Hozier,"['irish singer-songwriter', 'modern rock', 'pop']"
+597,Declan McKenna,"['indie pop', 'modern alternative rock', 'modern rock', 'rock']"
+598,Matt Walden,['teen pop']
+599,Wynn,['la pop']
+600,Landon Austin,"['channel pop', 'indie cafe pop', 'indiecoustica', 'neo mellow', 'pop', 'viral pop']"
+601,Kooma,['finnish indie']
+602,Ro Ransom,['nyc rap']
+603,Benjamin Sefring,[]
+604,Camber Johnson,[]
+605,Hopex,"['bass trap', 'traprun', 'turkish trap']"
+606,KING SOL,['deep underground hip hop']
+607,HYFY,[]
+608,Alex France,[]
+609,MIDIcal,[]
+610,Teddy Marquee,[]
+611,Jimmy Hardwind,[]
+612,80Fitz,['beatboxing']
+613,Jack Moy,[]
+614,Shelton Harris,[]
+615,TeeFLii,['west coast trap']
+616,Alex Wiley,"['chicago rap', 'underground hip hop']"
+617,Jessie Reyez,"['canadian contemporary r&b', 'canadian pop', 'dance pop', 'pop']"
+618,FRENSHIP,"['electropop', 'indie electropop', 'indie poptimism', 'la pop', 'pop dance', 'pop edm', 'tropical house']"
+619,Starley,"['aussietronica', 'pop dance', 'tropical house']"
+620,Bishop Briggs,"['electropop', 'modern alternative rock', 'modern rock', 'pop']"
+621,French Montana,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+622,Gym Class Heroes,"['dance pop', 'pop rap']"
+623,Fitz and The Tantrums,"['indie pop', 'indie poptimism', 'la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'rock']"
+624,Demi Lovato,"['dance pop', 'pop', 'pop dance', 'post-teen pop']"
+625,Kehlani,"['dance pop', 'pop', 'pop rap', 'post-teen pop', 'r&b']"
+626,SHAED,"['electropop', 'pop']"
+627,Mustard,"['cali rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+628,Coca Vango,"['atl trap', 'deep southern trap']"
+629,Liife,[]
+630,Landon Cube,"['emo rap', 'sad rap', 'underground hip hop', 'vapor trap']"
+631,Sad Frosty,"['meme rap', 'vapor trap']"
+632,A$AP Mob,"['hip hop', 'rap', 'southern hip hop', 'trap', 'vapor trap']"
+633,Disturbed,"['alternative metal', 'nu metal', 'rap metal']"
+634,Funnel Vision,"['antiviral pop', 'social media pop']"
+635,Michael Schulte,"['german pop', 'indie cafe pop']"
+636,Pink Sweat$,"['bedroom soul', 'pop']"
+637,Tom MacDonald,"['bc underground hip hop', 'country rap']"
+638,Lil Yung Pharaoh,"['emo rap', 'sad rap']"
+639,DDG,"['trap', 'vapor trap', 'viral rap']"
+640,Illmortal,[]
+641,11:11,"['alternative r&b', 'canadian contemporary r&b', 'chill r&b', 'indie r&b', 'pop r&b', 'trap soul']"
+642,TK N Cash,['baltimore hip hop']
+643,YG,"['cali rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+644,OG Maco,"['atl hip hop', 'trap', 'underground hip hop']"
+645,MILES,"['bebop', 'contemporary post-bop', 'cool jazz', 'hard bop', 'jazz', 'jazz fusion', 'jazz trumpet']"
+646,Anne-Marie,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'tropical house', 'uk pop']"
+647,Taylor Swift,"['dance pop', 'pop']"
+648,Silk City,['edm']
+649,Bryce Fox,"['indie poptimism', 'modern alternative rock', 'modern rock', 'rebel blues']"
+650,A R I Z O N A,"['edm', 'electropop', 'indie poptimism', 'pop', 'pop dance', 'pop edm', 'tropical house']"
+651,SLACKCiRCUS,[]
+652,Sam Feldt,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'pop edm', 'tropical house']"
+653,Mako,"['big room', 'edm', 'electro house', 'indie poptimism', 'pop dance', 'pop edm', 'tropical house']"
+654,Sam Tinnesz,"['indie poptimism', 'modern rock', 'rebel blues']"
+655,"""Weird Al"" Yankovic","['comedy rock', 'comic', 'parody']"
+656,Tsuki,[]
+657,Fred V & Grafix,"['drum and bass', 'liquid funk']"
+658,Metrik,"['drum and bass', 'jump up', 'liquid funk']"
+659,Camo & Krooked,"['austrian dnb', 'drum and bass', 'jump up', 'liquid funk']"
+660,Delta Heavy,"['brostep', 'drum and bass', 'edm', 'electro house', 'jump up', 'liquid funk']"
+661,Distress Signal,[]
+662,Maduk,"['chillstep', 'deep liquid', 'drum and bass', 'dutch dnb', 'liquid funk']"
+663,1991,"['bass house', 'drum and bass']"
+664,Friction,"['bass house', 'drum and bass', 'jump up', 'liquid funk']"
+665,GLXY,"['deep dnb', 'liquid funk']"
+666,Bru-C,['bass house']
+667,Stylus,['experimental bass']
+668,Kanine,"['bass house', 'drum and bass']"
+669,Killer Hertz,['uk dnb']
+670,Linguistics,[]
+671,Liam Payne,"['dance pop', 'pop', 'post-teen pop']"
+672,Andy Grammer,"['dance pop', 'modern rock', 'neo mellow', 'pop', 'pop rock', 'post-teen pop']"
+673,Austin Mahone,"['dance pop', 'pop', 'post-teen pop', 'viral pop']"
+674,Feint,"['chillstep', 'deep liquid', 'edm', 'gaming edm']"
+675,Droptek,"['chillstep', 'complextro', 'edm', 'electro house', 'filthstep', 'gaming edm', 'halftime dnb']"
+676,Cyantific,"['drum and bass', 'jump up', 'liquid funk']"
+677,Ownglow,"['drum and bass', 'liquid funk', 'stateside dnb']"
+678,Crissy Criss,"['jump up', 'uk dnb']"
+679,SASASAS,['bass house']
+680,Matrix & Futurebound,"['drum and bass', 'liquid funk']"
+681,Mollie Collins,['uk dnb']
+682,Brookes Brothers,"['drum and bass', 'jump up', 'liquid funk']"
+683,Macky Gee,"['bass house', 'tekk']"
+684,DJ Fresh,"['afro house', 'drum and bass', 'house', 'pop dance', 'tropical house', 'uk dance', 'uk dnb']"
+685,MUZZ,"['brostep', 'chillstep', 'complextro', 'drum and bass', 'edm', 'electro house', 'gaming edm']"
+686,Pink Floyd,"['album rock', 'art rock', 'classic rock', 'progressive rock', 'psychedelic rock', 'rock', 'symphonic rock']"
+687,Botnek,"['bass house', 'canadian electronic', 'electro house', 'electronic trap']"
+688,Magnetude,"['neurofunk', 'russian dnb']"
+689,Rune RK,"['dakke dak', 'danish electronic']"
+690,Dwin,['lithuanian electronic']
+691,Dynoro,"['edm', 'electro house', 'pop dance', 'tropical house']"
+692,Tujamo,"['big room', 'dance pop', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'tropical house']"
+693,Kaan Pars,['turkish edm']
+694,Miscris,['lithuanian electronic']
+695,TRFN,[]
+696,Tenacious,"['alternative metal', 'comedy rock', 'comic', 'comic metal', 'parody', 'rock']"
+697,Lorcan X Jamie,[]
+698,Ed Marquis,[]
+699,What So Not,"['aussietronica', 'edm', 'electro house', 'electronic trap', 'electropop', 'escape room', 'future bass', 'vapor twitch']"
+700,Post Preme,[]
+701,NERDOfficial,[]
+702,Jack Harlow,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap', 'trap']"
+703,Doneze,[]
+704,Tony Velour,"['glitchcore', 'hyperpop']"
+705,Oren Major,[]
+706,Keali'i,"['hawaiian', 'jawaiian', 'tahitian']"
+707,Why G,"['canadian hip hop', 'toronto rap']"
+708,Dr. Dre,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']"
+709,Troy Junker,[]
+710,Bugus,[]
+711,Moneybagg Yo,"['hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']"
+712,Cantrell,[]
+713,Lost Capone,[]
+714,Juicy J,"['crunk', 'dirty south rap', 'gangster rap', 'hip hop', 'memphis hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+715,B. Russ,[]
+716,K.A.A.N.,"['deep underground hip hop', 'underground hip hop']"
+717,TKO,"['canadian hip hop', 'hip hop', 'melodic rap', 'pop rap', 'rap', 'toronto rap', 'trap']"
+718,Rob Bailey & The Hustle Standard,['military rap']
+719,Big K.R.I.T.,"['alternative hip hop', 'conscious hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'mississippi hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']"
+720,Jaden,"['hip hop', 'rap']"
+721,Jae Mitch,[]
+722,Blac Youngsta,"['hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'trap']"
+723,Wilkinson,"['drum and bass', 'house', 'liquid funk', 'pop dance', 'uk dance']"
+724,Deuce & Charger,['uk dnb']
+725,Jaguar Skills,[]
+726,Joe Ford,"['future rock', 'neurofunk']"
+727,Sub Focus,"['drum and bass', 'house', 'liquid funk', 'uk dance']"
+728,Jinco,"['bass trap', 'pop edm', 'traprun']"
+729,WiDE AWAKE,"['bass trap', 'traprun']"
+730,Valentino Khan,"['bass house', 'brostep', 'edm', 'electro house', 'electronic trap', 'house', 'moombahton']"
+731,Dropgun,"['big room', 'deep big room', 'edm', 'electro house', 'pop edm', 'progressive electro house', 'russian edm']"
+732,Sikdope,"['bass house', 'deep big room', 'dubstep', 'edm', 'electro house', 'electronic trap', 'gaming dubstep']"
+733,Big Shaq,['london rap']
+734,Dunderpatrullen,['bitpop']
+735,Insan3lik3,"['complextro', 'edm', 'electro house', 'gaming edm']"
+736,Elektronomia,['gaming edm']
+737,Alex Skrindo,['gaming edm']
+738,KUURO,"['bass trap', 'edm', 'electro house', 'gaming edm', 'traprun']"
+739,Killrude,[]
+740,MDK,[]
+741,Tokyo Machine,"['gaming edm', 'j-dance']"
+742,Meric,[]
+743,DAZZ,['german dance']
+744,Desmeon,['gaming edm']
+745,Jensation,['gaming edm']
+746,Different Heaven,['gaming edm']
+747,JJD,['gaming edm']
+748,Teminite,"['edm', 'gaming dubstep', 'gaming edm']"
+749,Brooks,"['contemporary country', 'country', 'country road', 'country rock']"
+750,Rogue,"['chillstep', 'complextro', 'edm', 'electro house', 'future bass', 'gaming edm']"
+751,IZECOLD,['gaming edm']
+752,Steam Phunk,['pop edm']
+753,Spag Heddy,"['brostep', 'dubstep', 'edm', 'electro house', 'filthstep', 'riddim dubstep']"
+754,Rob Gasser,"['electro house', 'gaming edm']"
+755,Nitro Fun,"['complextro', 'edm', 'electro house', 'gaming edm']"
+756,Tobu,['gaming edm']
+757,Sullivan King,"['dubstep', 'edm', 'electro house', 'electronic trap', 'gaming dubstep']"
+758,BOXINBOX,"['bass trap', 'traprun']"
+759,Zayde Wølf,"['modern alternative rock', 'modern rock', 'rebel blues']"
+760,Vexento,['gaming edm']
+761,Doctor Vox,['gaming edm']
+762,Azazal,['gaming dubstep']
+763,Dex Arson,[]
+764,Pegboard Nerds,"['brostep', 'danish electronic', 'edm', 'electro house', 'gaming edm', 'glitch']"
+765,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+766,N.E.R.D,"['hip hop', 'virginia hip hop']"
+767,Miguel,"['dance pop', 'pop', 'r&b', 'urban contemporary']"
+768,Jetta,['metropopolis']
+769,Adam Counts,[]
+770,Bruno Mars,"['dance pop', 'pop']"
+771,Imagine Dragons,"['modern rock', 'rock']"
+772,Keys N Krates,"['bass trap', 'edm', 'electronic trap', 'livetronica', 'vapor twitch']"
+773,Mickey Valen,"['bass trap', 'pop edm', 'traprun']"
+774,Veorra,"['bass trap', 'traprun']"
+775,Flux Pavilion,"['bass trap', 'brostep', 'classic dubstep', 'edm', 'electro house', 'electronic trap']"
+776,Snavs,"['bass trap', 'danish electronic', 'edm', 'electro house', 'electronic trap', 'future bass', 'pop edm', 'traprun', 'vapor twitch']"
+777,graves,"['bass trap', 'electronic trap', 'future bass', 'pop edm', 'traprun', 'vapor twitch']"
+778,KLOUD,"['bass trap', 'dark clubbing', 'traprun']"
+779,Flume,"['australian dance', 'australian electropop', 'australian indie', 'downtempo', 'edm']"
+780,Lost Sky,"['bass trap', 'gaming edm']"
+781,FRND,"['electropop', 'indie electropop', 'pop edm']"
+782,Hollywood Principle,[]
+783,London Jae,['deep underground hip hop']
+784,Fabolous,"['dance pop', 'gangster rap', 'hip hop', 'hip pop', 'pop rap', 'r&b', 'rap', 'trap', 'urban contemporary']"
+785,Jay Prince,"['alternative r&b', 'indie r&b', 'indie soul', 'trap soul', 'uk alternative hip hop', 'underground hip hop']"
+786,Denzel Curry,"['dark trap', 'drill', 'hip hop', 'miami hip hop', 'rap', 'trap', 'underground hip hop']"
+787,Tommy Genesis,"['bc underground hip hop', 'canadian hip hop', 'electropop', 'escape room', 'hyperpop', 'pop', 'trap queen']"
+788,Loving Caliber,['scandipop']
+789,Kanye West,"['chicago rap', 'rap']"
+790,Lupe Fiasco,"['chicago rap', 'conscious hip hop', 'hip hop', 'political hip hop', 'pop rap', 'rap', 'southern hip hop']"
+791,Jazz Cartier,"['canadian hip hop', 'deep underground hip hop', 'indie pop rap', 'toronto rap', 'trap soul', 'underground hip hop']"
+792,Rich Dunk,['north carolina hip hop']
+793,Aries,"['emo rap', 'pop rap', 'sad rap']"
+794,Maxo Kream,"['hip hop', 'houston rap', 'melodic rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop', 'vapor trap']"
+795,The Boyboy West Coast,[]
+796,Troy Ave,['trap']
+797,SadBoyProlific,"['emo rap', 'sad rap']"
+798,Lil Xan,"['emo rap', 'underground hip hop']"
+799,Polo & Pan,"['dark disco', 'electro-pop francais', 'french indie pop', 'french indietronica', 'new french touch']"
+800,Niska,"['francoton', 'french hip hop', 'pop urbaine', 'rap francais']"
+801,420 Motivation,[]
+802,AC,"['album rock', 'australian rock', 'hard rock', 'rock']"
+803,The FifthGuys,['traprun']
+804,Tilian,['progressive post-hardcore']
+805,Conor Maynard,"['dance pop', 'pop', 'post-teen pop', 'uk pop', 'viral pop']"
+806,MagSonics,['deep pop edm']
+807,Radio Caroline,[]
+808,Nico Collins,['social media pop']
+809,Avi8,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']"
+810,Danny Padilla,['indie cafe pop']
+811,Sublab,"['chillstep', 'vapor twitch', 'wave']"
+812,M4SONIC,[]
+813,Macpro,[]
+814,Braden Barrie,[]
+815,Sleeping Wolf,"['indie poptimism', 'modern alternative rock']"
+816,Ben Woodward,"['acoustic chill', 'viral pop']"
+817,Convex,[]
+818,Drawn To The Sky,"['emo rap', 'sad rap']"
+819,Cartoon,['gaming edm']
+820,Armors,"['hopebeat', 'indie poptimism', 'indie rockism', 'modern alternative rock']"
+821,PsoGnar,['gaming dubstep']
+822,Heroplanet,[]
+823,Flapo,[]
+824,ScottDW,[]
+825,teddybear,"['electronic rock', 'swedish alternative rock', 'swedish electropop']"
+826,The Animal In Me,"['pixie', 'post-screamo']"
+827,Alemoa,[]
+828,Axol,['gaming edm']
+829,Mike Hawkins,"['danish electronic', 'deep big room']"
+830,Tribe Dive & Rivo,[]
+831,Danny McCarthy,[]
+832,Rynx,[]
+833,DROELOE,"['bass trap', 'edm', 'electronic trap', 'electropop', 'future bass', 'pop edm', 'vapor soul', 'vapor twitch']"
+834,pewdiepie,"['antiviral pop', 'meme rap', 'social media pop']"
+835,Josh A,"['emo rap', 'sad rap']"
+836,SHAKED,"['deep house', 'disco house', 'house', 'vocal house']"
+837,KRAK'N,[]
+838,Adventurer,['progressive post-hardcore']
+839,Taska Black,"['bass trap', 'edm', 'electronic trap', 'electropop', 'future bass', 'indie electropop', 'pop edm', 'traprun', 'vapor twitch']"
+840,Grant,"['edm', 'electro house', 'future bass', 'gaming edm', 'pop edm']"
+841,Jacksepticeye,[]
+842,Panda Eyes,"['edm', 'gaming edm']"
+843,Tavi Castro,['moombahton']
+844,Herobust,"['bass trap', 'brostep', 'dubstep', 'electro house', 'electronic trap']"
+845,Jo Cohen,['gaming edm']
+846,Damluke,[]
+847,Mike Emilio,"['melbourne bounce international', 'russelater']"
+848,K.Flay,"['electropop', 'escape room', 'hip pop', 'indie poptimism', 'indie rock', 'modern alternative rock', 'modern rock', 'pop', 'rock']"
+849,E.P.O,"['bass trap', 'traprun']"
+850,Cal Scruby,"['deep underground hip hop', 'indie pop rap', 'ohio hip hop', 'pop rap', 'underground hip hop']"
+851,Promoting Sounds,['emo rap']
+852,Thutmose,['underground hip hop']
+853,clipping.,"['alternative hip hop', 'escape room', 'experimental hip hop', 'industrial hip hop']"
+854,IDK,"['dmv rap', 'hip hop', 'rap', 'trap', 'underground hip hop', 'vapor trap']"
+855,Yung Pinch,"['emo rap', 'melodic rap', 'oc rap', 'pop rap', 'rap', 'sad rap', 'trap', 'underground hip hop', 'vapor trap']"
+856,Evernone,[]
+857,Oliver Heldens,"['big room', 'dance pop', 'disco house', 'edm', 'electro house', 'future house', 'house', 'pop dance', 'progressive electro house', 'progressive house', 'tropical house']"
+858,Marnik,"['deep big room', 'electro house']"
+859,ZHU,"['edm', 'electro house']"
+860,DJ SIRI MNSPORT,
+861,John Williams,['soundtrack']
+862,Samuel Kim,[]
+863,Ludacris,"['atl hip hop', 'dance pop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+864,Birdman,"['dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop']"
+865,Hitmaka,[]
+866,Jianetti,[]
+867,BenFly,[]
+868,Mtmwan,[]
+869,Travis Barker,['rap rock']
+870,JZAC,['deep underground hip hop']
+872,Harvey Stripes,[]
+873,Common,"['alternative hip hop', 'chicago rap', 'conscious hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'neo soul', 'political hip hop', 'rap', 'southern hip hop']"
+874,Dice Raw,"['philly rap', 'wrestling']"
+875,JAY-Z,"['east coast hip hop', 'hip hop', 'pop rap', 'rap']"
+876,The Roots,"['alternative hip hop', 'conscious hip hop', 'east coast hip hop', 'hardcore hip hop', 'hip hop', 'neo soul', 'philly rap', 'political hip hop', 'southern hip hop']"
+877,Clue,[]
+878,JDP,"['canadian contemporary r&b', 'indie cafe pop', 'pop']"
+879,Jogger,[]
+880,JID,"['hip hop', 'rap', 'underground hip hop']"
+881,S.O.,"['christian hip hop', 'christian trap', 'uk christian rap']"
+882,Beast Coast,"['hip hop', 'rap', 'underground hip hop']"
+883,Bishop Nehru,"['alternative hip hop', 'underground hip hop']"
+884,Rico Nasty,"['dmv rap', 'escape room', 'trap queen']"
+885,JPEGMAFIA,"['alternative hip hop', 'escape room', 'experimental hip hop', 'hip hop', 'industrial hip hop', 'rap', 'underground hip hop']"
+886,Supa Bwe,"['pop rap', 'underground hip hop']"
+887,Abhi The Nomad,"['desi hip hop', 'underground hip hop', 'vapor soul']"
+888,Manwolves,['bedroom soul']
+889,Childish Major,"['alternative r&b', 'trap soul', 'underground hip hop']"
+890,Rav,['meme rap']
+891,Armani White,['indie hip hop']
+892,Jakey,['meme rap']
+893,99 Neighbors,"['indie hip hop', 'vermont indie']"
+894,Kemba,"['alternative hip hop', 'underground hip hop']"
+895,Anderson .Paak,['escape room']
+896,Saba,"['alternative r&b', 'chicago rap', 'hip hop', 'rap', 'underground hip hop']"
+897,Elton Aura,['bedroom soul']
+898,$ilkMoney,"['underground hip hop', 'vapor trap']"
+899,Tabby,['minnesota hip hop']
+900,slowthai,"['hip hop', 'rap', 'uk alternative hip hop', 'uk hip hop', 'underground hip hop']"
+901,Domo Genesis,"['alternative hip hop', 'hip hop', 'rap', 'underground hip hop']"
+902,Kill Bill: The Rapper,['meme rap']
+903,100 gecs,"['glitchcore', 'hyperpop']"
+904,EARTHGANG,"['atl hip hop', 'hip hop', 'psychedelic hip hop', 'rap', 'underground hip hop']"
+905,DJ-AudioJack,[]
+906,Macklemore,"['pop rap', 'seattle hip hop']"
+907,Crizzly,[]
+908,Sinner's Heist,"['bass trap', 'traprun']"
+909,Simon Bichbihler,[]
+910,Solar Skinner,[]
+911,Major Lazer,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance', 'pop rap']"
+912,Defqwop,['gaming edm']
+913,k?d,['k-pop girl group']
+914,Summer Was Fun,"['future bass', 'gaming edm', 'pop edm']"
+915,Jaroslav Beck,[]
+916,GAWVI,"['christian hip hop', 'christian pop', 'christian trap', 'miami hip hop', 'rap cristiano']"
+917,Heuse,"['bass trap', 'gaming edm']"
+918,Ojivolta,[]
+919,Midsplit,"['pop edm', 'traprun']"
+920,Rudimental,"['dance pop', 'edm', 'house', 'liquid funk', 'pop', 'pop dance', 'tropical house', 'uk dance', 'uk funky']"
+921,Jordan Comolli,"['bass trap', 'electronic trap', 'traprun']"
+922,Guvna B,"['christian hip hop', 'christian trap', 'uk christian rap', 'uk worship']"
+923,Kaivon,"['bass trap', 'edm', 'electro house', 'electronic trap', 'electropop', 'future bass', 'pop edm', 'vapor twitch']"
+924,Whales,"['bass trap', 'dubstep', 'gaming dubstep', 'gaming edm']"
+925,John Wolf,[]
+926,Vic Sage,"['christian hip hop', 'christian trap']"
+927,Fvmeless,"['christian hip hop', 'christian trap']"
+928,Kuren,"['aussietronica', 'australian indigenous']"
+929,Christon Gray,"['christian hip hop', 'christian trap']"
+930,Sirius Blvck,['indiana hip hop']
+931,Kyle Bent,"['boston hip hop', 'deep underground hip hop', 'underground hip hop']"
+932,Zak Downtown,['indie pop rap']
+933,Pivot Gang,"['indie hip hop', 'underground hip hop']"
+934,IshDARR,"['canadian hip hop', 'deep underground hip hop', 'milwaukee hip hop', 'underground hip hop']"
+935,REASON,"['hip hop', 'indie hip hop', 'rap', 'underground hip hop']"
+936,The Game,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+937,Michael Christmas,"['boston hip hop', 'indie hip hop', 'underground hip hop']"
+938,Injury Reserve,"['alternative hip hop', 'conscious hip hop', 'escape room', 'hip hop', 'underground hip hop']"
+939,tobi lou,"['alternative r&b', 'chicago rap', 'pop rap']"
+940,Freddie Gibbs,"['alternative hip hop', 'hip hop', 'indiana hip hop', 'rap', 'southern hip hop', 'underground hip hop']"
+941,Boogie,"['melodic rap', 'pop rap', 'rap', 'trap']"
+942,Alpha Brain Waves,['brain waves']
+943,Chris Espo,[]
+944,Omega Crosby,[]
+945,Maino,"['pop rap', 'rap', 'trap']"
+946,Gun,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+947,UNLTD,[]
+948,Topboylexus,[]
+949,Snakehips,"['dance pop', 'edm', 'electropop', 'indie poptimism', 'pop', 'pop dance', 'tropical house']"
+950,Jason Derulo,"['dance pop', 'pop', 'pop dance', 'pop rap', 'post-teen pop']"
+951,Trey Songz,"['dance pop', 'pop', 'r&b', 'urban contemporary']"
+952,Justin Bieber,"['canadian pop', 'pop', 'post-teen pop']"
+953,Bliss n Eso,['australian hip hop']
+954,KSI,['uk hip hop']
+955,Soulja Boy,"['atl hip hop', 'dance pop', 'dirty south rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+956,Hopsin,"['conscious hip hop', 'hip hop', 'pop rap', 'rap']"
+957,Carnage,"['edm', 'electro house', 'electronic trap', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']"
+958,Hi-Rez,"['deep underground hip hop', 'indie pop rap']"
+959,Pell,['underground hip hop']
+960,Ekali,"['canadian electronic', 'edm', 'electro house', 'electronic trap', 'electropop', 'future bass', 'indie electropop', 'pop', 'pop dance', 'pop edm', 'vapor soul', 'vapor twitch']"
+961,Trace.,"['contemporary country', 'country', 'country road', 'country rock', 'modern country rock', 'redneck']"
+962,Global Dan,"['emo rap', 'melodic rap', 'sad rap', 'underground hip hop', 'vapor trap']"
+963,James Arthur,"['pop', 'talent show', 'uk pop']"
+964,$uicideBoy$,"['dark trap', 'new orleans rap', 'underground hip hop']"
+965,Mike WiLL Made-It,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']"
+966,Token,"['boston hip hop', 'pop rap']"
+967,Kehele Keff,[]
+968,Nate Good,"['deep underground hip hop', 'indie pop rap']"
+969,Maniac Flame,[]
+970,Macklemore & Ryan Lewis,"['dance pop', 'pop', 'pop dance', 'pop rap', 'seattle hip hop']"
+971,Jay Rock,"['conscious hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']"
+972,D12,"['detroit hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap', 'rap rock']"
+973,"Royce Da 5'9""","['alternative hip hop', 'detroit hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'southern hip hop']"
+974,Da Crook,"['canadian hip hop', 'toronto rap']"
+975,LaLion,[]
+976,Doe Boy,"['atl hip hop', 'atl trap', 'ohio hip hop', 'rap', 'southern hip hop', 'trap', 'underground hip hop', 'vapor trap']"
+977,Jay Whiss,"['canadian hip hop', 'toronto rap']"
+978,Ameer Vann,"['hip hop', 'underground hip hop']"
+979,DJ Drama,"['dirty south rap', 'gangster rap', 'hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+980,Rich Brian,['indonesian hip hop']
+981,Don Diablo,"['big room', 'dance pop', 'deep big room', 'edm', 'electro house', 'future house', 'house', 'pop dance', 'pop edm', 'progressive electro house', 'tropical house']"
+982,Boombox Cartel,"['bass trap', 'edm', 'electro house', 'electronic trap', 'vapor twitch']"
+983,Egzod,"['bass trap', 'gaming edm', 'pop edm', 'traprun']"
+984,VINAI,"['big room', 'deep big room', 'edm', 'electro house', 'melbourne bounce international', 'pop dance', 'progressive electro house']"
+985,Excision,"['brostep', 'canadian electronic', 'edm', 'electro house', 'electronic trap']"
+986,Louis The Child,"['edm', 'electropop', 'indie poptimism', 'pop', 'pop dance', 'tropical house']"
+987,RL Grime,"['bass trap', 'edm', 'electro house', 'electronic trap', 'electropop', 'pop dance']"
+988,AronChupa,['swedish pop']
+989,Hex Cougar,"['bass trap', 'electronic trap', 'future bass', 'la pop', 'traprun', 'vapor twitch']"
+990,Viceroy,['nu disco']
+991,Born Dirty,"['bass house', 'electro house']"
+992,Steve James,['pop edm']
+993,Crywolf,"['chillstep', 'edm', 'indie poptimism', 'melodic dubstep']"
+994,Nightcore,"['hands up', 'nightcore']"
+995,Logan Paul,['social media pop']
+996,NetNobody,[]
+997,The Seige,"['cali rap', 'modern alternative rock']"
+998,SoMo,"['dance pop', 'pop', 'pop r&b', 'post-teen pop', 'r&b']"
+999,Rockit Gaming,"['antiviral pop', 'otacore']"
+1000,Axwell,"['big room', 'dance pop', 'edm', 'electro house', 'pop', 'pop dance', 'tropical house']"
+1001,The Notorious B.I.G.,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']"
+1002,Young Money,"['dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+1003,Mobb Deep,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'queens hip hop', 'rap']"
+1004,Ice Cube,"['conscious hip hop', 'g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'west coast rap']"
+1005,Scarface,"['conscious hip hop', 'dirty south rap', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+1006,Compton's Most Wanted,"['g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'west coast rap']"
+1007,Westside Connection,"['g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'west coast rap']"
+1008,Army Of The Pharaohs,"['hardcore hip hop', 'philly rap', 'political hip hop', 'spiritual hip hop', 'underground rap']"
+1009,Onyx,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'queens hip hop', 'rap']"
+1010,DJ Quik,"['g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'hyphy', 'popping', 'rap', 'southern hip hop', 'west coast rap']"
+1011,Smoke DZA,"['alternative hip hop', 'boom bap', 'harlem hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap', 'underground hip hop']"
+1012,M.O.P.,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']"
+1013,Obie Trice,"['detroit hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop']"
+1014,Eazy-E,"['g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'west coast rap']"
+1015,G-Unit,"['gangster rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'queens hip hop', 'rap', 'southern hip hop', 'trap']"
+1016,Diddy,"['dance pop', 'east coast hip hop', 'hip hop', 'hip pop', 'pop rap', 'r&b', 'rap']"
+1017,Wu-Tang Clan,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']"
+1018,2Pac,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']"
+1019,Jake Lambo,['deep underground hip hop']
+1020,Nas,"['conscious hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'queens hip hop', 'rap']"
+1021,Niall Horan,"['dance pop', 'pop', 'post-teen pop']"
+1022,John K,"['electropop', 'pop', 'post-teen pop']"
+1023,Joji,"['alternative r&b', 'viral pop']"
+1024,Anson Seabra,"['indie cafe pop', 'pop']"
+1025,SAYGRACE,"['dance pop', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'social media pop']"
+1026,BENEE,"['nz pop', 'pop']"
+1027,The Kid LAROI,['australian hip hop']
+1028,Topic,"['dance pop', 'edm', 'german dance', 'pop dance', 'pop edm', 'tropical house']"
+1029,Sean Paul,"['dance pop', 'dancehall', 'pop dance', 'pop rap']"
+1030,Tom Grennan,"['indie anthem-folk', 'modern alternative rock', 'modern rock', 'uk pop']"
+1031,$NOT,"['emo rap', 'florida rap', 'sad rap', 'underground hip hop', 'vapor trap']"
+1032,Ant Saunders,"['chill r&b', 'pop']"
+1033,Olivia Rodrigo,"['pop', 'post-teen pop', 'social media pop']"
+1034,Jonas Brothers,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']"
+1035,contradash,[]
+1036,Tate McRae,"['dance pop', 'electropop', 'pop', 'post-teen pop']"
+1037,DeathbyRomy,['modern indie pop']
+1038,Kesha,"['dance pop', 'electropop', 'pop', 'pop dance', 'post-teen pop']"
+1039,Surfaces,"['bedroom soul', 'pop']"
+1040,Tiny Meat Gang,['meme rap']
+1041,John Legend,"['neo mellow', 'neo soul', 'pop', 'pop soul', 'r&b', 'urban contemporary']"
+1042,Audrey Mika,[]
+1043,mxmtoon,"['bedroom pop', 'electropop', 'indie pop', 'pop']"
+1044,Hayley Williams,[]
+1045,Robin Schulz,"['dance pop', 'deep euro house', 'deep house', 'edm', 'german dance', 'pop', 'pop dance', 'tropical house']"
+1046,Sam Fischer,"['australian pop', 'pop', 'uk pop']"
+1047,Shakira,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']"
+1048,Chris Webby,"['indie pop rap', 'pop rap', 'rap']"
+1049,Kid Cudi,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']"
+1050,Marconi Union,['ambient']
+1051,Samra,['german hip hop']
+1052,Tech N9ne,"['hip hop', 'kansas city hip hop', 'pop rap']"
+1053,AK,['dance pop']
+1054,Night Lovell,"['canadian hip hop', 'dark trap', 'emo rap', 'ottawa rap', 'underground hip hop']"
+1055,One After None,['trap soul']
+1056,Vin Jay,['nyc rap']
+1057,Doobie,"['ohio hip hop', 'pop rap']"
+1058,Offset,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+1059,Just Juice,['deep underground hip hop']
+1060,Ace Hood,"['dirty south rap', 'gangster rap', 'hip hop', 'miami hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+1061,SonReal,"['bc underground hip hop', 'canadian hip hop', 'deep underground hip hop', 'indie pop rap', 'pop rap']"
+1062,Armand Hammer,"['alternative hip hop', 'boom bap', 'experimental hip hop']"
+1063,6ixbuzz,"['canadian hip hop', 'toronto rap']"
+1064,J Neat,['canadian hip hop']
+1065,Dj Wissam,[]
+1066,24kGoldn,['cali rap']
+1067,The Charlie Daniels Band,"['classic rock', 'country', 'country rock', 'southern rock']"
+1068,Ayo & Teo,"['social media pop', 'trap']"
+1069,Ruben Slikk,['underground hip hop']
+1070,Acerrr,"['canadian hip hop', 'toronto rap']"
+1071,Cozz,['underground hip hop']
+1072,MED,"['edm', 'pop dance', 'pop house', 'tropical house']"
+1073,Seon,['sad rap']
+1074,CJ Fly,['underground hip hop']
+1075,Rapsody,"['alternative hip hop', 'hip hop', 'north carolina hip hop', 'southern hip hop', 'trap queen', 'underground hip hop']"
+1076,Tierra Whack,"['alternative r&b', 'escape room', 'indie soul', 'underground hip hop']"
+1077,Lil Kayla,['trap queen']
+1078,RapCaviar: Original Videos,
+1079,Roddy Ricch   ,"['melodic rap', 'rap', 'trap']"
+1080,The Neighbourhood,"['modern alternative rock', 'modern rock', 'pop']"
+1081,Noah Cyrus,"['dance pop', 'pop', 'post-teen pop']"
+1082,Doja Cat,"['dance pop', 'pop']"
+1083,Cavetown,"['bedroom pop', 'indie pop', 'modern rock']"
+1084,FINNEAS,"['electropop', 'indie pop', 'indie poptimism', 'la indie', 'pop']"
+1085,Harry Styles,"['pop', 'post-teen pop']"
+1086,Conan Gray,"['bedroom pop', 'electropop', 'indie pop', 'pop']"
+1087,Sia,"['australian dance', 'australian pop', 'dance pop', 'pop', 'pop dance']"
+1088,Troye Sivan,"['australian pop', 'dance pop', 'electropop', 'pop', 'pop dance', 'post-teen pop', 'viral pop']"
+1089,Julia Michaels,"['dance pop', 'electropop', 'pop', 'pop dance', 'post-teen pop']"
+1090,Clairo,"['bedroom pop', 'boston indie']"
+1091,Lana Del Rey,"['art pop', 'pop']"
+1092,Alessia Cara,"['canadian contemporary r&b', 'canadian pop', 'dance pop', 'electropop', 'pop', 'pop dance', 'post-teen pop']"
+1093,DaniLeigh,"['pop', 'pop r&b', 'pop rap', 'r&b', 'rap', 'rap latina']"
+1094,Stunna 4 Vegas,"['southern hip hop', 'trap']"
+1095,Tyla Yaweh,"['cali rap', 'melodic rap', 'pop rap', 'rap', 'trap']"
+1096,Pop Smoke,['brooklyn drill']
+1097,Fivio Foreign,"['brooklyn drill', 'new york drill', 'rap', 'trap']"
+1098,Mulatto,"['pop r&b', 'trap queen']"
+1099,Smoove'L,"['brooklyn drill', 'new york drill']"
+1100,TOKYO’S REVENGE,"['meme rap', 'sad rap', 'vapor trap', 'viral rap']"
+1101,50 Cent,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop', 'rap']"
+1102,Fat Joe,"['bronx hip hop', 'dance pop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'hip pop', 'pop rap', 'rap', 'trap']"
+1103,Akon,['dance pop']
+1104,Julius Fucik,"['czech classical', 'post-romantic era']"
+1105,Raekwon,"['alternative hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap', 'southern hip hop']"
+1106,Nipsey Hussle,"['conscious hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+1107,Buddy,"['alternative r&b', 'cali rap', 'rap', 'trap soul', 'underground hip hop']"
+1108,Belly,"['canadian hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'trap soul', 'underground hip hop']"
+1109,Dave East,"['gangster rap', 'harlem hip hop', 'hip hop', 'nyc rap', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']"
+1110,Pardison Fontaine,['nyc rap']
+1111,Berner,"['cali rap', 'gangster rap', 'hyphy', 'oakland hip hop', 'rap', 'southern hip hop', 'west coast trap']"
+1112,Gunna,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+1113,Snoop Dogg,"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']"
+1114,Pusha T,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop', 'virginia hip hop']"
+1115,Merkules,"['bc underground hip hop', 'canadian hip hop']"
+1116,DJ Khalil,[]
+1117,Blackway,['nyc rap']
+1118,Beau Young Prince,['dmv rap']
+1119,Chamillionaire,"['dirty south rap', 'gangster rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+1120,Barrett Wilbert Weed,"['broadway', 'hollywood', 'indie pop', 'show tunes']"
+1121,Anthony Ramos,"['hollywood', 'show tunes']"
+1122,Iamjakehill,"['dark trap', 'emo rap', 'sad rap']"
+1123,TheHxliday,"['sad rap', 'vapor trap']"
+1124,Wallpaper.,[]
+1125,T.R.U.,[]
+1126,Emilio Rojas,"['deep underground hip hop', 'soul flow']"
+1127,Danny Gokey,"['anthem worship', 'ccm', 'christian music', 'christian pop', 'idol']"
+1128,Dizzee Rascal,"['bassline', 'grime', 'instrumental grime']"
+1129,BEAM,['trap soul']
+1130,Benzi,[]
+1131,Far Out,"['bass trap', 'gaming edm', 'melodic dubstep', 'pop edm', 'traprun']"
+1132,Eye on Eyez,[]
+1133,Neezy,[]
+1134,Xie,[]
+1135,QUIX,"['bass trap', 'dubstep', 'electro house', 'electronic trap', 'vapor twitch']"
+1136,TheUnder,['traprun']
+1137,AllttA,['new french touch']
+1138,DJ 45,['chicago rap']
+1139,Demrick,"['canadian hip hop', 'deep underground hip hop']"
+1140,Fransis Derelle,[]
+1141,Diskord,[]
+1142,FKi 1st,['atl trap']
+1143,YB,"['alabama rap', 'rap', 'trap', 'underground hip hop', 'vapor trap', 'viral rap']"
+1144,UZ,"['melodic rap', 'philly rap', 'rap', 'trap']"
+1145,Lil Haiti,['viral trap']
+1146,Nolan Santo,[]
+1147,watt,['modern alternative rock']
+1148,JPB,['gaming edm']
+1149,Canon,"['chicago rap', 'christian hip hop', 'christian trap']"
+1150,Jayceeoh,[]
+1151,Yung Chainz,[]
+1152,YBS Skola,['baltimore hip hop']
+1153,Ty James,['melodic rap']
+1154,Khris Moore,[]
+1155,Jay Samuelz,['deep german hip hop']
+1156,The Blancos,['modern alternative rock']
+1157,Ohana Bam,['deep underground hip hop']
+1158,Forever M.C.,['deep underground hip hop']
+1159,Dillon Chase,"['christian hip hop', 'christian trap']"
+1160,1UP,[]
+1161,BoTalks,['pop edm']
+1162,System Of A Down,"['alternative metal', 'nu metal', 'rap metal', 'rock']"
+1163,Britney Spears,"['dance pop', 'pop', 'pop dance', 'pop rap', 'post-teen pop']"
+1164,Hundredth,"['melodic hardcore', 'modern alternative rock', 'progressive post-hardcore', 'screamocore']"
+1165,Pure Violet,[]
+1166,Matchbox Twenty,"['neo mellow', 'pop rock', 'post-grunge']"
+1167,Spotify,[]
+1168,All Songs Considered,
+1169,Absofacto,"['indie psych-pop', 'shimmer psych']"
+1170,Zac Efron,"['dance pop', 'hollywood', 'pop', 'post-teen pop', 'show tunes']"
+1171,Zendaya,"['dance pop', 'pop', 'post-teen pop']"
+1172,BrizzyBren,[]
+1173,Lil Berete,"['canadian hip hop', 'toronto rap']"
+1174,Open Mike Eagle,"['abstract hip hop', 'alternative hip hop', 'escape room']"
+1175,Felly,"['pop rap', 'underground hip hop']"
+1176,Chophouze,['beats']
+1177,Wifisfuneral,"['dark trap', 'emo rap', 'florida rap', 'miami hip hop', 'rap', 'trap', 'underground hip hop', 'vapor trap']"
+1178,DJ Kay Slay,['battle rap']
+1179,Billy Marchiafava,"['meme rap', 'vapor trap']"
+1180,Jerome,"['german house', 'pop dance']"
+1181,ZUHAIR,"['australian r&b', 'bedroom soul', 'chill r&b']"
+1182,Teddy,"['classic soul', 'disco', 'funk', 'motown', 'new jack swing', 'philly soul', 'post-disco', 'quiet storm', 'soul', 'southern soul', 'urban contemporary']"
+1183,JACKBOYS,"['rap', 'trap']"
+1184,DJ Luke Nasty,"['north carolina hip hop', 'trap']"
+1185,Falling In Reverse,"['metalcore', 'modern rock', 'pop punk', 'rap metal', 'rock']"
+1186,Boys Like Girls,"['neo mellow', 'neon pop punk', 'pop punk', 'pop rock', 'post-teen pop']"
+1187,AWOLNATION,"['la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'rock', 'stomp pop']"
+1188,Get Scared,"['modern rock', 'rock', 'screamo']"
+1189,Ht Bristol,[]
+1190,The Red Jumpsuit Apparatus,"['emo', 'pop punk', 'pop rock', 'screamo']"
+1191,Simon Curtis,"['electropop', 'otacore', 'post-teen pop']"
+1192,Maddix,"['big room', 'deep big room', 'edm', 'electro house', 'progressive electro house']"
+1193,T-Mass,"['bass trap', 'gaming edm', 'pop edm', 'traprun']"
+1194,Abdul,[]
+1195,Party Favor,"['bass trap', 'edm', 'electro house', 'electronic trap']"
+1196,Seven Lions,"['dubstep', 'edm', 'electro house', 'future bass', 'melodic dubstep', 'pop dance', 'pop edm', 'progressive trance']"
+1197,Deji,"['dance pop', 'pop', 'pop dance', 'post-teen pop']"
+1198,Klaas,"['edm', 'german dance', 'pop dance', 'pop house', 'tropical house']"
+1199,William Black,"['edm', 'melodic dubstep', 'pop edm']"
+1200,Syn Cole,"['big room', 'dance pop', 'deep tropical house', 'edm', 'electro house', 'gaming edm', 'house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'tropical house']"
+1201,Elgate feat. Spektrem,['gaming edm']
+1202,Will Sparks,"['big room', 'deep big room', 'edm', 'electro house', 'melbourne bounce', 'melbourne bounce international', 'pop dance']"
+1203,Good Times Ahead,"['bass trap', 'brostep', 'edm', 'electro house', 'electronic trap', 'vapor twitch']"
+1204,Behmer,['melbourne bounce international']
+1205,Far East Movement,"['asian american hip hop', 'dance pop', 'edm', 'pop', 'pop dance', 'pop rap']"
+1206,MAKJ,"['big room', 'deep big room', 'edm', 'electro house', 'melbourne bounce']"
+1207,Jack Ü,"['edm', 'electro house', 'pop dance']"
+1208,Matisse & Sadko,"['big room', 'deep big room', 'edm', 'electro house', 'pop dance', 'pop edm', 'progressive electro house', 'progressive house', 'russian edm']"
+1209,MOTi,"['alternative metal', 'metalcore']"
+1210,Vincent,"['edm', 'electronic trap', 'electropop', 'future bass', 'pop edm', 'vapor twitch']"
+1211,Jamie Foxx,"['dance pop', 'hip hop', 'hip pop', 'neo soul', 'pop rap', 'r&b', 'southern hip hop', 'urban contemporary']"
+1212,B2K,"['boy band', 'dance pop', 'hip hop', 'hip pop', 'pop rap', 'r&b', 'urban contemporary']"
+1213,112,"['atl hip hop', 'boy band', 'dance pop', 'gangster rap', 'hip pop', 'new jack swing', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'urban contemporary']"
+1214,Lloyd,"['dance pop', 'hip pop', 'pop r&b', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']"
+1215,Mario,"['dance pop', 'hip pop', 'pop', 'pop r&b', 'post-teen pop', 'r&b', 'rap', 'urban contemporary']"
+1216,Estelle,"['neo soul', 'r&b']"
+1217,Tamia,"['canadian pop', 'dance pop', 'hip pop', 'neo soul', 'new jack swing', 'pop r&b', 'quiet storm', 'r&b', 'urban contemporary']"
+1218,Kelly Rowland,"['atl hip hop', 'dance pop', 'hip pop', 'neo soul', 'pop', 'pop r&b', 'pop rap', 'post-teen pop', 'r&b', 'urban contemporary']"
+1219,Jagged Edge,"['atl hip hop', 'dance pop', 'hip hop', 'hip pop', 'neo soul', 'new jack swing', 'pop r&b', 'pop rap', 'quiet storm', 'r&b', 'southern hip hop', 'urban contemporary']"
+1220,Ginuwine,"['dance pop', 'hip hop', 'hip pop', 'neo soul', 'new jack swing', 'r&b', 'southern hip hop', 'urban contemporary']"
+1221,J. Holiday,"['bassline', 'hip pop', 'new jack swing', 'pop r&b', 'pop rap', 'r&b', 'urban contemporary']"
+1222,Keyshia Cole,"['dance pop', 'hip pop', 'neo soul', 'pop', 'pop r&b', 'pop rap', 'r&b', 'urban contemporary']"
+1223,Ciara,"['dance pop', 'hip pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']"
+1224,Usher,"['atl hip hop', 'dance pop', 'pop', 'r&b', 'south carolina hip hop', 'urban contemporary']"
+1225,Sammie,"['dance pop', 'hip pop', 'pop r&b', 'pop rap', 'r&b', 'urban contemporary']"
+1226,Bobby V.,"['dance pop', 'hip pop', 'new jack swing', 'pop r&b', 'pop rap', 'r&b', 'urban contemporary']"
+1227,Destiny's Child,"['dance pop', 'girl group', 'hip pop', 'pop', 'r&b', 'urban contemporary']"
+1228,Fantasia,"['dance pop', 'hip pop', 'neo soul', 'pop r&b', 'quiet storm', 'r&b', 'urban contemporary']"
+1229,Mario Winans,"['r&b', 'urban contemporary']"
+1230,Marques Houston,"['hip pop', 'new jack swing', 'pop r&b', 'pop rap', 'r&b', 'urban contemporary']"
+1231,Monica,"['dance pop', 'hip pop', 'neo soul', 'new jack swing', 'pop r&b', 'pop rap', 'r&b', 'urban contemporary']"
+1232,DAY26,"['boy band', 'dance pop', 'hip pop', 'pop r&b', 'pop rap', 'r&b', 'urban contemporary']"
